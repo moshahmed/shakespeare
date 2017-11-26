@@ -1,2 +1,1 @@
-# shakespeare
-Shakespeare srt lrc, gutenberg text synchronized with audio
+Shakespeare plays srt lrc, Gutenberg text synchronized with audio.
